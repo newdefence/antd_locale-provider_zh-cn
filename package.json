@@ -1,0 +1,23 @@
+{
+  "name": "antd_locale-provider_zh-cn",
+  "version": "1.0.0",
+  "description": "antd 汉化资源提取，不用引入一堆文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newdefence/antd_locale-provider_zh-cn.git"
+  },
+  "keywords": [
+    "antd",
+    "汉化"
+  ],
+  "author": "I don't know",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newdefence/antd_locale-provider_zh-cn/issues"
+  },
+  "homepage": "https://github.com/newdefence/antd_locale-provider_zh-cn#readme"
+}
